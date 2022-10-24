@@ -7,6 +7,6 @@
 __click the link header of any challange below to go to the solution__.
 
 ### Challanges
-- __1.__ [FIZZ_BUZZ](url)
+- [FIZZ_BUZZ](https://github.com/Sarah-okolo/Coding_Challanges_in_C/tree/master/FIZZ_BUZZ)
   #### Task
   - print integers one-to-N, labeling any integers divisible by three as “Fizz,” integers divisible by five as “Buzz” and integers divisible by both three and five as “FizzBuzz.”
